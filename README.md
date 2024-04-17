@@ -29,5 +29,6 @@ Foi surpreendente o resultado e a IA se mostrou uma ferramente útil para o apre
 
 - [E-BOOK](https://drive.google.com/drive/folders/1smsGshPul9CApsUTiV19X5Hy38P-R_uC?usp=drive_link)
 
+GIT: https://github.com/Dedecow/lab-natty-or-not
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
